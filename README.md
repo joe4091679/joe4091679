@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile and website application development.
 - 🌱 I’m currently learning AngularJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me joe4091679@gmail.com
+- 📫 How to reach me joe4091679@yahoo.com.tw
 
 <!---
 joe4091679/joe4091679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
